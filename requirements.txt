@@ -5,7 +5,7 @@ attrs==22.1.0
 Babel==2.11.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
-cargo==0.3
+
 certifi==2022.9.24
 cffi==1.15.1
 charset-normalizer==2.1.1
