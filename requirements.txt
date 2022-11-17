@@ -1,6 +1,8 @@
 cffi==1.15.1
 comtypes==1.1.14
-numpy==1.23.4
+
+numpy==1.21.6
+
 pycparser==2.21
 pypiwin32==223
 pyttsx3==2.90
